@@ -3,5 +3,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # Soal test front end no 1
 
 screenshot
+![alt text](https://github.com/fiergetech/HindroApp/blob/main/public/screenshot.png?raw=true)
+
 
 
